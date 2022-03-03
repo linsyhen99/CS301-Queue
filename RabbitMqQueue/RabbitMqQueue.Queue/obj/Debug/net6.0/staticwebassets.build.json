@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gUZjT8jNLReB0Sy4rbhcvTzeMVgM/Zow09+cyb5Qt9Q=",
+  "Source": "RabbitMqQueue.Queue",
+  "BasePath": "_content/RabbitMqQueue.Queue",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/RabbitMqQueue.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/RabbitMqQueue.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/RabbitMqQueue.Domain.csproj",
+        "projectName": "RabbitMqQueue.Domain",
+        "projectPath": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/RabbitMqQueue.Domain.csproj",
+        "packagesPath": "/Users/ruwansadris/.nuget/packages/",
+        "outputPath": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruwansadris/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/RabbitMqQueue.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/RabbitMqQueue.Services.csproj",
+        "projectName": "RabbitMqQueue.Services",
+        "projectPath": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/RabbitMqQueue.Services.csproj",
+        "packagesPath": "/Users/ruwansadris/.nuget/packages/",
+        "outputPath": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruwansadris/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/RabbitMqQueue.Domain.csproj": {
+                "projectPath": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/RabbitMqQueue.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

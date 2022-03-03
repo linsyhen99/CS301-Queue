@@ -1,0 +1,12 @@
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/bin/Debug/net6.0/RabbitMqQueue.Domain.deps.json
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/bin/Debug/net6.0/RabbitMqQueue.Domain.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/bin/Debug/net6.0/ref/RabbitMqQueue.Domain.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/bin/Debug/net6.0/RabbitMqQueue.Domain.pdb
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/RabbitMqQueue.Domain.csproj.AssemblyReference.cache
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/RabbitMqQueue.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/RabbitMqQueue.Domain.AssemblyInfoInputs.cache
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/RabbitMqQueue.Domain.AssemblyInfo.cs
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/RabbitMqQueue.Domain.csproj.CoreCompileInputs.cache
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/RabbitMqQueue.Domain.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/ref/RabbitMqQueue.Domain.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/obj/Debug/net6.0/RabbitMqQueue.Domain.pdb

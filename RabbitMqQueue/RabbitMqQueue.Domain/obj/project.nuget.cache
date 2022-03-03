@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSThxvMwu2AQMKEMh+4AaTYY/VIfJVatPA+SPg2IGLE4S3wsDcojRoK0wGEwDYc4hc6EWt8Lr2Ed3fHUBSft9w==",
+  "success": true,
+  "projectFilePath": "/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Domain/RabbitMqQueue.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruwansadris/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/ruwansadris/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512",
+    "/Users/ruwansadris/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/ruwansadris/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

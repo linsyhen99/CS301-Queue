@@ -1,0 +1,35 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:25424",
+      "sslPort": 44360
+    }
+  },
+  "profiles": {
+    "RabbitMqQueue.Queue": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7229;http://localhost:5206",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "rmqHostname": "localhost",
+        "rmqUsername": "guest",
+        "rmqPassword": "guest",
+        "rmqVhost": "/",
+        "rmqPort": "5672",
+        "transactionsPerMessage": "15",
+        "transactionFilePath": "/Users/ruwansadris/Desktop/Y2S2/CS301/Project B (Appendix 2a) - spend.first.1000.csv"
+      }
+    }
+  }
+}

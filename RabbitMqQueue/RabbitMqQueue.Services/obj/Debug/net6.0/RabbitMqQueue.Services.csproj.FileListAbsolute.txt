@@ -1,0 +1,15 @@
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/bin/Debug/net6.0/RabbitMqQueue.Services.deps.json
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/bin/Debug/net6.0/RabbitMqQueue.Services.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/bin/Debug/net6.0/ref/RabbitMqQueue.Services.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/bin/Debug/net6.0/RabbitMqQueue.Services.pdb
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/bin/Debug/net6.0/RabbitMqQueue.Domain.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/bin/Debug/net6.0/RabbitMqQueue.Domain.pdb
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.csproj.AssemblyReference.cache
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.AssemblyInfoInputs.cache
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.AssemblyInfo.cs
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.csproj.CoreCompileInputs.cache
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.csproj.CopyComplete
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/ref/RabbitMqQueue.Services.dll
+/Users/ruwansadris/Desktop/Y2S2/CS301/projects/RabbitMqQueue/RabbitMqQueue/RabbitMqQueue.Services/obj/Debug/net6.0/RabbitMqQueue.Services.pdb
